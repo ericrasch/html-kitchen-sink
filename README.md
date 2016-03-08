@@ -6,7 +6,13 @@ Meant as a very basic starter for HTML content + simple styles. HTML Kitchen Sin
 
 CodePen: http://codepen.io/ericrasch/pen/qIiyK
 
+## Base Styles:
+
+* Skeleton `V2.0.4`: www.getskeleton.com
+
 ## TODO:
 
-* [ ] add simple styles
+* [x] add simple styles
+* [ ] add styles toggle (to show between styled/unstyled code & content)
+* [ ] add more base styles (like Bootstrap/Foundation/etc.)
 * [ ] add [Gulp.js Starter](https://github.com/greypants/gulp-starter)
